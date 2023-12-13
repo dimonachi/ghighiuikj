@@ -116,5 +116,5 @@ allure.api.addTab('packages', {
             baseUrl: 'packages',
             url: 'data/packages.json'
         });
-    })
+    }) 
 });
