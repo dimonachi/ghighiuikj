@@ -1,4 +1,4 @@
- 'use strict';
+  'use strict';
 
 allure.api.addTranslation('en', {
     tab: {
