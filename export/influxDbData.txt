@@ -1,4 +1,4 @@
-  launch_status failed=0 1695731186000000000
+ launch_status failed=0 1695731186000000000
 launch_status broken=0 1695731186000000000
 launch_status passed=15 1695731186000000000
 launch_status skipped=0 1695731186000000000
